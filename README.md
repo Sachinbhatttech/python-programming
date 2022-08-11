@@ -39,6 +39,7 @@ Here is the list that you need to follow to kick start your journey on Python Pr
 - [Implicit Type Conversion](https://www.scaler.com/topics/python/implicit-type-conversion-in-python/)
 - [Explicit Type Conversion](https://www.scaler.com/topics/python/explicit-type-conversion-in-python/)
 - [Boolean Operators](https://www.scaler.com/topics/python/boolean-operators-in-python/)
+- [Scaler Topics](https://www.scaler.com/topics/)
 
 ## Understand Flow Control in Python 
 
